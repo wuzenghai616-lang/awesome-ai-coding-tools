@@ -31,7 +31,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - [Security](#security)
 - [Database and API Tools](#database-and-api-tools)
 - [MCP Servers and Directories](#mcp-servers-and-directories)
-- **[GoldBean](https://github.com/wuzenghai616-lang/goldbean)** - Pay-per-use AI API gateway with 16 Baidu AI endpoints (OCR, TTS, ASR, Translation, LLM Chat, Image Recognition) via x402 USDC micropayments. MCP compatible, works with Claude Desktop, Cursor, Cline. Install: `npx goldbean-mcp`.
+- **[GoldBean](https://github.com/wuzenghai616-lang/goldbean)** - Baidu AI API gateway — 47 endpoints (26 paid + 21 free): OCR, TTS, ASR, Translation, LLM chat, Face Detection. No Chinese phone number required. Pay-per-call with USDC on Base via x4022. 20 free credits.. MCP compatible, works with Claude Desktop, Cursor, Cline. Install: `npx goldbean-mcp`.
 - [Related Lists](#related-lists)
 
 ---
